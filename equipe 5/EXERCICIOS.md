@@ -34,7 +34,7 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 **Enunciado**: Qual é o valor de 3 elevado à quarta potência?
 
 **R:** 
-
+81
 ---
 
 ## 6. Soma e Subtração
