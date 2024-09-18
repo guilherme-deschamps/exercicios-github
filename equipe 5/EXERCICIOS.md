@@ -13,7 +13,7 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 **Enunciado**: Pedro tinha 65 reais. Ele gastou 29 reais comprando um livro. Quanto dinheiro restou para Pedro?
 
 **R:** 
-
+36
 ---
 
 ## 3. Multiplicação
