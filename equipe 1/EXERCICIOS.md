@@ -76,7 +76,7 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 **Enunciado**: Uma loja vendeu 12 bicicletas e depois vendeu mais 8 bicicletas. Cada bicicleta custa 350 reais. Qual foi o valor total arrecadado com a venda?
 
 **R:** 
-
+7000
 ---
 
 ## 12. Multiplicação e Subtração
