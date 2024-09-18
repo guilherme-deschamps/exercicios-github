@@ -111,7 +111,7 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 **Enunciado**: Qual é o resultado de \( 10^2 - 36 \)?
 
 **R:** 
-
+64
 ---
 
 ## 17. Divisão e Soma
