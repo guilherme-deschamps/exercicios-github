@@ -5,42 +5,42 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 ## 1. Soma
 **Enunciado**: A soma de dois números é 47. Um dos números é 12. Qual é o outro número?
 
-**R:** 
+**R:35** 
 
 ---
 
 ## 2. Subtração
 **Enunciado**: Pedro tinha 65 reais. Ele gastou 29 reais comprando um livro. Quanto dinheiro restou para Pedro?
 
-**R:** 
+**R:26** 
 
 ---
 
 ## 3. Multiplicação
 **Enunciado**: Ana comprou 6 pacotes de canetas. Cada pacote contém 8 canetas. Quantas canetas Ana comprou no total?
 
-**R:** 
+**R:48** 
 
 ---
 
 ## 4. Divisão
 **Enunciado**: Um fazendeiro colheu 180 maçãs e quer dividi-las igualmente entre 6 cestas. Quantas maçãs irão em cada cesta?
 
-**R:** 
+**R:30** 
 
 ---
 
 ## 5. Potenciação
 **Enunciado**: Qual é o valor de 3 elevado à quarta potência?
 
-**R:** 
+**R:81** 
 
 ---
 
 ## 6. Soma e Subtração
 **Enunciado**: João tem 15 balas. Ele ganhou mais 7 balas de sua irmã, mas comeu 5 delas. Quantas balas ele tem agora?
 
-**R:** 
+**R:17** 
 
 ---
 
