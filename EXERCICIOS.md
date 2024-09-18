@@ -1,18 +1,26 @@
 # Exercícios de Lógica Matemática - Equipe 1
 
-Abaixo estão 20 questões de matemática utilizando operações básicas como soma, subtração, multiplicação, divisão e potenciação. Responda cada pergunta no campo "R:" abaixo de cada enunciado. **Note que cada aluno da equipe deve ser responsável por 4 questões apenas, para que todos possam responder.**
+Abaixo estão 20 questões de matemática utilizando operações básicas como soma, subtração, multiplicação, divisão e potenciação. Responda cada pergunta no campo "R:" abaixo de cada enunciado.
 
 ## 1. Soma
 **Enunciado**: A soma de dois números é 47. Um dos números é 12. Qual é o outro número?
 
+<<<<<<< HEAD
 **R:35** 
+=======
+**R: 35** 
+>>>>>>> 8a9b834141d383f18b14f97e232d53bd22b61c38
 
 ---
 
 ## 2. Subtração
 **Enunciado**: Pedro tinha 65 reais. Ele gastou 29 reais comprando um livro. Quanto dinheiro restou para Pedro?
 
+<<<<<<< HEAD
 **R:36** 
+=======
+**R: 36** 
+>>>>>>> 8a9b834141d383f18b14f97e232d53bd22b61c38
 
 ---
 
