@@ -48,7 +48,7 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 **Enunciado**: Em uma escola, há 5 turmas de 25 alunos cada. Se 30 alunos faltaram no total, quantos alunos estavam presentes na escola?
 
 **R:** 
-
+120
 ---
 
 ## 8. Divisão e Soma
