@@ -83,7 +83,7 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 **Enunciado**: Carlos comprou 8 caixas de suco, cada uma com 12 latas. Se ele já bebeu 15 latas, quantas latas de suco ainda restam?
 
 **R:** 
-
+69
 ---
 
 ## 13. Divisão e Potenciação
