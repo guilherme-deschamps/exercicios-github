@@ -55,7 +55,7 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 **Enunciado**: Uma pizzaria tem 240 pizzas prontas para a entrega e precisa entregar igualmente para 8 bairros. Após a entrega, ela preparou mais 16 pizzas. Quantas pizzas há agora?
 
 **R:** 
-
+46
 ---
 
 ## 9. Multiplicação e Potenciação
