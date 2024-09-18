@@ -104,7 +104,7 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 **Enunciado**: Em uma fábrica, 480 brinquedos foram produzidos em 6 dias. Quantos brinquedos foram produzidos por dia?
 
 **R:** 
-
+80
 ---
 
 ## 16. Subtração e Potenciação
