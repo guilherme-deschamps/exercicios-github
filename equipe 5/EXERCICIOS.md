@@ -139,3 +139,4 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 **Enunciado**: Qual é o resultado de \( 5 \times 2^3 \)?
 
 **R:** 
+40
