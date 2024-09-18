@@ -41,7 +41,7 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 **Enunciado**: João tem 15 balas. Ele ganhou mais 7 balas de sua irmã, mas comeu 5 delas. Quantas balas ele tem agora?
 
 **R:** 
-
+17
 ---
 
 ## 7. Multiplicação e Subtração
