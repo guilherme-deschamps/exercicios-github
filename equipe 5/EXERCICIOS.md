@@ -118,7 +118,7 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 **Enunciado**: Uma empresa tem 320 funcionários, divididos igualmente em 8 departamentos. Se mais 40 funcionários forem contratados, quantos funcionários haverá em cada departamento?
 
 **R:** 
-
+45
 ---
 
 ## 18. Soma e Potenciação
