@@ -97,7 +97,7 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 **Enunciado**: Calcule a soma de \( 4^2 \) e 16.
 
 **R:** 
-
+32
 ---
 
 ## 15. Multiplicação e Divisão
