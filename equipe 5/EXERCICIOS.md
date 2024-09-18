@@ -69,7 +69,7 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 **Enunciado**: Um campo de futebol tem 500 cadeiras. Se 150 foram removidas para manutenção, e as restantes foram divididas igualmente entre 5 setores, quantas cadeiras cada setor recebeu?
 
 **R:** 
-
+70
 ---
 
 ## 11. Soma e Multiplicação
