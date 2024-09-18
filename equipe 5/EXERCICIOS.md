@@ -132,7 +132,7 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 **Enunciado**: Uma caixa de lápis contém 20 lápis. Se 7 lápis forem removidos da caixa, e 3 vezes mais lápis forem adicionados, quantos lápis haverá na caixa?
 
 **R:** 
-
+47
 ---
 
 ## 20. Multiplicação e Potenciação
