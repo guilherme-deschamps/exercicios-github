@@ -18,7 +18,7 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 ## 3. Multiplicação
 **Enunciado**: Ana comprou 6 pacotes de canetas. Cada pacote contém 8 canetas. Quantas canetas Ana comprou no total?
 
-**R:** 
+**R: 48 canetas** 
 
 ---
 
