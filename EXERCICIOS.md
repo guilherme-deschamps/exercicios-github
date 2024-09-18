@@ -25,7 +25,7 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 ## 4. Divisão
 **Enunciado**: Um fazendeiro colheu 180 maçãs e quer dividi-las igualmente entre 6 cestas. Quantas maçãs irão em cada cesta?
 
-**R:** 
+**R:30** 
 
 ---
 
