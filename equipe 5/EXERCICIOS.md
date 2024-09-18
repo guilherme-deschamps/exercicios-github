@@ -6,7 +6,7 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 **Enunciado**: A soma de dois números é 47. Um dos números é 12. Qual é o outro número?
 
 **R:** 
-
+35
 ---
 
 ## 2. Subtração
