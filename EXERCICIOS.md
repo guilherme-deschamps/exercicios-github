@@ -5,21 +5,21 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 ## 1. Soma
 **Enunciado**: A soma de dois números é 47. Um dos números é 12. Qual é o outro número?
 
-**R:** 
+**R:35** 
 
 ---
 
 ## 2. Subtração
 **Enunciado**: Pedro tinha 65 reais. Ele gastou 29 reais comprando um livro. Quanto dinheiro restou para Pedro?
 
-**R:** 
+**R:36** 
 
 ---
 
 ## 3. Multiplicação
 **Enunciado**: Ana comprou 6 pacotes de canetas. Cada pacote contém 8 canetas. Quantas canetas Ana comprou no total?
 
-**R:** 
+**R:48** 
 
 ---
 
@@ -54,7 +54,7 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 ## 8. Divisão e Soma
 **Enunciado**: Uma pizzaria tem 240 pizzas prontas para a entrega e precisa entregar igualmente para 8 bairros. Após a entrega, ela preparou mais 16 pizzas. Quantas pizzas há agora?
 
-**R:** 
+**R:16** 
 
 ---
 
