@@ -32,42 +32,42 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 ## 5. Potenciação
 **Enunciado**: Qual é o valor de 3 elevado à quarta potência?
 
-**R:** 
+**R:81** 
 
 ---
 
 ## 6. Soma e Subtração
 **Enunciado**: João tem 15 balas. Ele ganhou mais 7 balas de sua irmã, mas comeu 5 delas. Quantas balas ele tem agora?
 
-**R:** 
+**R:17** 
 
 ---
 
 ## 7. Multiplicação e Subtração
 **Enunciado**: Em uma escola, há 5 turmas de 25 alunos cada. Se 30 alunos faltaram no total, quantos alunos estavam presentes na escola?
 
-**R:** 
+**R:95** 
 
 ---
 
 ## 8. Divisão e Soma
 **Enunciado**: Uma pizzaria tem 240 pizzas prontas para a entrega e precisa entregar igualmente para 8 bairros. Após a entrega, ela preparou mais 16 pizzas. Quantas pizzas há agora?
 
-**R:** 
+**R:16** 
 
 ---
 
 ## 9. Multiplicação e Potenciação
 **Enunciado**: Calcule o resultado de \( 2^3 \times 4 \).
 
-**R:** 
+**R:32** 
 
 ---
 
 ## 10. Subtração e Divisão
 **Enunciado**: Um campo de futebol tem 500 cadeiras. Se 150 foram removidas para manutenção, e as restantes foram divididas igualmente entre 5 setores, quantas cadeiras cada setor recebeu?
 
-**R:** 
+**R:70** 
 
 ---
 
