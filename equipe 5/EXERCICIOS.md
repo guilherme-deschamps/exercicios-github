@@ -125,7 +125,7 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 **Enunciado**: Qual é a soma de \( 3^3 \) e 50?
 
 **R:** 
-
+77
 ---
 
 ## 19. Subtração e Multiplicação
