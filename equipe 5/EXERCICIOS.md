@@ -62,7 +62,7 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 **Enunciado**: Calcule o resultado de \( 2^3 \times 4 \).
 
 **R:** 
-
+32
 ---
 
 ## 10. Subtração e Divisão
