@@ -5,14 +5,14 @@ Abaixo estão 20 questões de matemática utilizando operações básicas como s
 ## 1. Soma
 **Enunciado**: A soma de dois números é 47. Um dos números é 12. Qual é o outro número?
 
-**R:** 
+**R:*35* 
 
 ---
 
 ## 2. Subtração
 **Enunciado**: Pedro tinha 65 reais. Ele gastou 29 reais comprando um livro. Quanto dinheiro restou para Pedro?
 
-**R:** 
+**R:*36* 
 
 ---
 
