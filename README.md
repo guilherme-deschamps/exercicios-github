@@ -2,7 +2,7 @@
 
 Bem-vindos ao exercício de lógica matemática! Neste projeto, cada aluno da equipe será responsável por responder **4 perguntas**. As equipes têm **5 alunos**, portanto, ao final, todas as **20 perguntas** devem estar respondidas no arquivo `exercicios.md`.
 
-## Como funcionam os exercícios:
+## Como que funciona esse exercício:
 
 1. Cada aluno deve responder **4 perguntas**. As perguntas estão listadas no arquivo `exercicios.md`.
 2. Cada aluno deve contribuir com o projeto utilizando o GitHub. Para isso, sigam o passo a passo abaixo, que envolve clonar o projeto, criar uma branch e propor um **Pull Request**.
